@@ -1,0 +1,11 @@
+nltk
+
+scikit-learn
+
+datasets
+
+huggingface-hub
+
+numpy
+
+pandas
